@@ -1,0 +1,1 @@
+CLUST-1:: Proteins =2:: AINTRAS = 0.0028:: AINTERS=0.0002:: slh=0.9161
